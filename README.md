@@ -1,4 +1,5 @@
 ## instagram like filter for iOS
+If you want to use instagram like filters in your app, you can consider the library, [Yummypets/YPImagePicker: 📸 Instagram-like image picker & filters for iOS](https://github.com/Yummypets/YPImagePicker).
 
 
 **Filter implemeted in Core Image library**
@@ -25,7 +26,7 @@
     <img src="image/instagram_like_filter_thumbnail_original_clarendon.png">
 </div>
 
-**Clarendon**
+**Toaster**
 
 <div style="text-align: center">
     <img src="image/instagram_like_filter_thumbnail_original_toaster.png">
